@@ -1,0 +1,13 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    text-align: center;
+    padding-left: 40px;
+    padding-bottom: 30px;
+    padding-top: 80px;
+    padding-right: 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px 20px 20px 20px;
+}

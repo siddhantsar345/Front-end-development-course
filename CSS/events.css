@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    background-color:orange;
+    color: azure;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,15 @@
+.myclass{
+    color: blue;
+    text-decoration: line-through;
+}
+body{
+    background-color: pink;
+}
+#myID{
+    color: white;
+    background-color: blue;
+}
+
+#p{
+    color: aquamarine;
+}

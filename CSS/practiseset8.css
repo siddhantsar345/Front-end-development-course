@@ -1,0 +1,20 @@
+.loader{
+     width: 100px;
+     height: 100px;
+     border-radius: 50%;
+     border: 10px solid #F7A072;
+     border-top: 10px solid #EDDEA4;
+     animation-name: rotateloader;
+     animation-duration: 2s;
+     animation-timing-function: ease-in-out;
+     animation-delay: 0s;
+     animation-iteration-count: infinite;
+}
+@keyframes rotateloader {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

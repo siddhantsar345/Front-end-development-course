@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    color: black;
+}
+#box1{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-image: url(/HTML/alexander-london-mJaD10XeD7w-unsplash.jpg);
+    background-size: cover;
+}
+body{
+    background-image: url(/CSS/notorious-v1rus-VLDJ725jdLE-unsplash.jpg);
+    background-size: cover; 
+}
